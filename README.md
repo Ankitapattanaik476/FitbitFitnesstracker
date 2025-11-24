@@ -5,7 +5,7 @@ The objective is to conduct high-resolution behavioral analytics, quantify activ
 
 The analysis follows a structured approach integrating data engineering, feature construction, exploratory data analysis (EDA), and time-series granularity enhancement.
 
-2. Dataset Description (text format, NOT in table form)
+2. Dataset Description (https://www.kaggle.com/datasets/arashnic/fitbit?resource=download)
 
 The dataset includes multiple CSV files capturing different aspects of user activity. Below is the description in text form:
 dailyActivity_merged.csv — Contains aggregated daily user metrics such as total steps, distances, sedentary minutes, active minutes, calories burned.
