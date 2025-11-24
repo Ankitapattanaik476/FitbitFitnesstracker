@@ -1,18 +1,6 @@
-A Complete Data Analysis Project
+1. Project Summary
 
-This project analyzes the FitBit Fitness Tracker dataset, 
-which contains daily activity logs for 33 users.
-The goal is to explore activity patterns, clean and preprocess the data, 
-and build visualizations to understand users’ lifestyle behavior,
-identify activity patterns, uncover insights, and visualize relationships between steps, calories burned, and daily activity intensity.
+This repository contains a fully reproducible data-analytics pipeline for processing, transforming, and analyzing FitBit Fitness Tracker Daily Activity Data.
+The objective is to conduct high-resolution behavioral analytics, quantify activity intensities, explore caloric expenditure relationships, and validate correlations through statistically sound methodologies.
 
-The analysis involves data cleaning, feature engineering, exploratory data analysis (EDA), and visual storytelling using Python.
-This project is ideal for:
-
-Beginners learning data analytics
-
-Students working on EDA projects
-
-Portfolio building for data analyst roles
-
-Anyone studying fitness patterns and lifestyle behavior
+The analysis follows a structured approach integrating data engineering, feature construction, exploratory data analysis (EDA), and time-series granularity enhancement.
